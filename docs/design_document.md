@@ -76,8 +76,6 @@ Jackson
 - Editors
 - Beta-testers
 
-Want to be on this list and contribute? Send an email to jackson@jacksonrayhamilton.com.
-
 
 Schedule (Tentative)
 --------------------
@@ -142,4 +140,4 @@ Income
 
 Ads? Donations? In-game shops? Cosmetics? Avatars? Virtual real estate? Value-for-value?
 
-Tabany.com might be able to be monetized. Even though the game is GPL, if everyone likes to play on a central server then that server can offer incentives in exchange for support.
+Website might be able to be monetized. Even though the game is GPL, if everyone likes to play on a central server then that server can offer incentives in exchange for support.
